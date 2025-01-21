@@ -1,6 +1,3 @@
-
-
-
 • 👋 Hi, I’m @Danush
 • 🌱 I’m currently learning python,django &sql
 • 🐍 Python enthusiast with a love for clean    and efficient code.
